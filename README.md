@@ -240,7 +240,7 @@ This repository contains all the stack definitions and tools for spinning up you
 ### Clone the repository
 
 ```bash 
-git clone https://github.com/your-username/home-lab.git
+git clone https://github.com/muhammedabdelkader/home-lab.git
 cd home-lab
 ```
 ### Create required directories
